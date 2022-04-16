@@ -309,5 +309,11 @@ h2 {
   flex: 1;
   padding-left: 10px;
 }
-
 /* CTA End */
+
+footer {
+  background-color: #23222a;
+  font-size: 10px;
+  opacity: 0.5;
+  padding: 10px;
+}
